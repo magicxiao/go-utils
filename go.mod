@@ -1,3 +1,3 @@
-module gutils/v1
+module go-utils/v1
 
 go 1.14

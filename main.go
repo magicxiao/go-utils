@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gutils/v1/stringUtils"
+	"go-utils/v1/stringUtils"
 )
 
 func main() {
