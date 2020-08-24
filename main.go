@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go-utils/v1/stringUtils"
+
+	"github.com/magicxiao/go-utils/stringUtils"
 )
 
 func main() {
